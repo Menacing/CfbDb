@@ -1,0 +1,2654 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<scores>
+<league>College Football</league><year>1997</year><season>Regular Season</season>
+<date day="1997-08-23">
+<game info="@ Chicago IL"> 
+<team tnum="1"><name>Oklahoma</name><score>0</score><line>5.0</line></team>
+<team tnum="2"><name>Northwestern</name><score>24</score><line>-5</line></team>
+</game>
+</date>
+<date day="1997-08-24">
+<game info="@ East Rutherford NJ"> 
+<team tnum="1"><name>Syracuse</name><score>34</score><line>-8.0</line></team>
+<team tnum="2"><name>Wisconsin</name><score>0</score><line>8</line></team>
+</game>
+</date>
+<date day="1997-08-28">
+<game>
+<team tnum="1"><name>Tulsa</name><score>24</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Cincinnati</name><score>34</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Ohio</name><score>31</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Illinois</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Central Michigan</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Western Michigan</name><score>34</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>10</score><site>V</site><line>28.0</line></team>
+<team tnum="2"><name>Ohio State</name><score>24</score><site>H</site><line>-28</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Kansas</name><score>24</score><site>H</site></team>
+</game>
+</date>
+<date day="1997-08-30">
+<game>
+<team tnum="1"><name>No Carolina State</name><score>32</score><site>V</site><line>24.0</line></team>
+<team tnum="2"><name>Syracuse</name><score>31</score><site>H</site><line>-24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>West Virginia</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Tech</name><score>59</score><site>V</site><line>-21.0</line></team>
+<team tnum="2"><name>Rutgers</name><score>19</score><site>H</site><line>21</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Georgia</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Nebraska</name><score>59</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Louisville</name><score>24</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>Kentucky</name><score>38</score><site>H</site><line>3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Miami-Ohio</name><score>27</score><site>H</site></team>
+</game>
+<game info="@ Birmingham AL"> 
+<team tnum="1"><name>Houston</name><score>17</score><site>V</site><line>16.5</line></team>
+<team tnum="2"><name>Alabama</name><score>42</score><site>H</site><line>-16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Air Force</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Florida</name><score>45</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Baylor</name><score>14</score><site>H</site><line>14</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Lafayette</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Pittsburgh</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>U.C.L.A.</name><score>34</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Washington State</name><score>37</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Reno</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Colorado State</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>6</score><site>V</site><line>27.0</line></team>
+<team tnum="2"><name>Florida</name><score>21</score><site>H</site><line>-27</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma State</name><score>21</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Iowa State</name><score>14</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>23</score><site>V</site></team>
+<team tnum="2"><name>Mississippi</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Memphis</name><score>10</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Mississippi State</name><score>13</score><site>H</site><line>-10</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Tech</name><score>17</score><site>V</site><line>21.5</line></team>
+<team tnum="2"><name>Tennessee</name><score>52</score><site>H</site><line>-21.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nicholls State</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>UL-Monroe</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>23</score><site>V</site></team>
+<team tnum="2"><name>Louisiana Tech</name><score>30</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>12</score><site>V</site></team>
+<team tnum="2"><name>Vanderbilt</name><score>29</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Arizona</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>New Mexico</name><score>33</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Portland State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Fresno State</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Utah State</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Utah</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>3</score><site>V</site><line>-13.5</line></team>
+<team tnum="2"><name>Hawaii</name><score>17</score><site>H</site><line>13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northridge State</name><score>63</score><site>V</site></team>
+<team tnum="2"><name>Boise State</name><score>23</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico State</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Arizona State</name><score>41</score><site>H</site></team>
+</game>
+</date>
+<date day="1997-09-04">
+<game>
+<team tnum="1"><name>Auburn</name><score>28</score><site>V</site><line>-2.0</line></team>
+<team tnum="2"><name>Virginia</name><score>17</score><site>H</site><line>2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona</name><score>9</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>Oregon</name><score>16</score><site>H</site><line>3</line></team>
+</game>
+</date>
+<date day="1997-09-05">
+<game>
+<team tnum="1"><name>Navy</name><score>31</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>San Diego State</name><score>45</score><site>H</site><line>-4.5</line></team>
+</game>
+</date>
+<date day="1997-09-06">
+<game>
+<team tnum="1"><name>Boston College</name><score>21</score><site>V</site><line>-12.0</line></team>
+<team tnum="2"><name>Temple</name><score>28</score><site>H</site><line>12</line></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana</name><score>6</score><site>V</site><line>27.0</line></team>
+<team tnum="2"><name>North Carolina</name><score>23</score><site>H</site><line>-27</line></team>
+</game>
+<game>
+<team tnum="1"><name>East Carolina</name><score>17</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>West Virginia</name><score>24</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kentucky</name><score>27</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Mississippi State</name><score>35</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Appalachian State</name><score>12</score><site>V</site></team>
+<team tnum="2"><name>Clemson</name><score>23</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Michigan State</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Army</name><score>25</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>21</score><site>V</site><line>14.5</line></team>
+<team tnum="2"><name>Colorado</name><score>31</score><site>H</site><line>-14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>James Madison</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>Ball State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Wisconsin</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Iowa</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Iowa</name><score>66</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>10</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Kansas</name><score>17</score><site>H</site><line>-10</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>13</score><site>V</site><line>20.0</line></team>
+<team tnum="2"><name>Notre Dame</name><score>17</score><site>H</site><line>-20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah</name><score>27</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Louisville</name><score>21</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>35</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Houston</name><score>3</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Bowling Green</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern</name><score>20</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Wake Forest</name><score>27</score><site>H</site><line>14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>17</score><site>V</site><line>32.0</line></team>
+<team tnum="2"><name>Penn State</name><score>34</score><site>H</site><line>-32</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>12</score><site>V</site><line>30.0</line></team>
+<team tnum="2"><name>Stanford</name><score>28</score><site>H</site><line>-30</line></team>
+</game>
+<game>
+<team tnum="1"><name>Syracuse</name><score>34</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Oklahoma</name><score>36</score><site>H</site><line>10.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tennessee</name><score>30</score><site>V</site><line>-15.0</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>24</score><site>H</site><line>15</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington</name><score>42</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Brigham Young</name><score>20</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Oregon State</name><score>33</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>10</score><site>V</site><line>12.0</line></team>
+<team tnum="2"><name>Wyoming</name><score>56</score><site>H</site><line>-12</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>31</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Portland State</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Idaho</name><score>46</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Sam Houston State</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>Texas A+M</name><score>59</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>Florida</name><score>82</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Maryland</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>South Carolina</name><score>33</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>23</score><site>V</site></team>
+<team tnum="2"><name>Youngstown State</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>No Carolina State</name><score>45</score><site>V</site><line>-8.0</line></team>
+<team tnum="2"><name>Duke</name><score>14</score><site>H</site><line>8</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>16</score><site>V</site><line>22.5</line></team>
+<team tnum="2"><name>Arkansas</name><score>28</score><site>H</site><line>-22.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Purdue</name><score>22</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>36</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>14</score><site>V</site><line>38.0</line></team>
+<team tnum="2"><name>Texas</name><score>48</score><site>H</site><line>-38</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>24</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Illinois</name><score>7</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>S-M-U</name><score>15</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Mississippi</name><score>23</score><site>H</site><line>-4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Memphis</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Missouri</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas State</name><score>47</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Air Force</name><score>41</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Rice</name><score>12</score><site>H</site><line>-4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Cincinnati</name><score>17</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Tulane</name><score>31</score><site>H</site><line>9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>14</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Southern Cal</name><score>7</score><site>H</site><line>14</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>3</score><site>V</site><line>35.5</line></team>
+<team tnum="2"><name>Louisiana State</name><score>55</score><site>H</site><line>-35.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico State</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>New Mexico</name><score>61</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma State</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>37</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Fresno State</name><score>35</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Utah State</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northridge State</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Hawaii</name><score>34</score><site>H</site></team>
+</game>
+</date>
+<date day="1997-09-11">
+<game>
+<team tnum="1"><name>Alabama</name><score>20</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Vanderbilt</name><score>0</score><site>H</site><line>14</line></team>
+</game>
+</date>
+<date day="1997-09-13">
+<game>
+<team tnum="1"><name>Clemson</name><score>19</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>No Carolina State</name><score>17</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado</name><score>3</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Michigan</name><score>27</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Maryland</name><score>7</score><site>V</site><line>31.0</line></team>
+<team tnum="2"><name>Florida State</name><score>50</score><site>H</site><line>-31</line></team>
+</game>
+<game>
+<team tnum="1"><name>West Virginia</name><score>24</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Boston College</name><score>31</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Duke</name><score>20</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>Northwestern</name><score>24</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi</name><score>9</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Auburn</name><score>19</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri</name><score>7</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Kansas</name><score>15</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>26</score><site>V</site></team>
+<team tnum="2"><name>Central Michigan</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Lafayette</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Army</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Memphis</name><score>21</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Michigan State</name><score>51</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>10</score><site>V</site><line>37.0</line></team>
+<team tnum="2"><name>Penn State</name><score>52</score><site>H</site><line>-37</line></team>
+</game>
+<game>
+<team tnum="1"><name>South Carolina</name><score>15</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Georgia</name><score>31</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Ohio State</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>20</score><site>V</site></team>
+<team tnum="2"><name>Miami-Ohio</name><score>49</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>Indiana</name><score>33</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Tulsa</name><score>16</score><site>V</site><line>22.0</line></team>
+<team tnum="2"><name>Iowa</name><score>54</score><site>H</site><line>-22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>24</score><site>V</site><line>21.0</line></team>
+<team tnum="2"><name>Air Force</name><score>25</score><site>H</site><line>-21</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Nebraska</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois</name><score>14</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Louisville</name><score>26</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho</name><score>43</score><site>V</site></team>
+<team tnum="2"><name>Idaho State</name><score>0</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona State</name><score>23</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Miami-Florida</name><score>12</score><site>H</site><line>-10</line></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>42</score><site>V</site></team>
+<team tnum="2"><name>Kent State</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>17</score><site>V</site><line>-18.0</line></team>
+<team tnum="2"><name>Purdue</name><score>28</score><site>H</site><line>18</line></team>
+</game>
+<game>
+<team tnum="1"><name>Richmond</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Virginia</name><score>26</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>3</score><site>V</site><line>21.0</line></team>
+<team tnum="2"><name>Washington</name><score>36</score><site>H</site><line>-21</line></team>
+</game>
+<game>
+<team tnum="1"><name>U.C.L.A.</name><score>66</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Texas</name><score>3</score><site>H</site><line>-10</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>20</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>24</score><site>V</site><line>13.0</line></team>
+<team tnum="2"><name>East Carolina</name><score>25</score><site>H</site><line>-13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>13</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Stanford</name><score>17</score><site>V</site><line>13.0</line></team>
+<team tnum="2"><name>North Carolina</name><score>28</score><site>H</site><line>-13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Syracuse</name><score>3</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Virginia Tech</name><score>31</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington State</name><score>28</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Southern Cal</name><score>21</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wisconsin</name><score>56</score><site>V</site><line>-17.0</line></team>
+<team tnum="2"><name>San Jose State</name><score>10</score><site>H</site><line>17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Central Arkansas</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Arkansas State</name><score>36</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>0</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>35</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>29</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Minnesota</name><score>53</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>16</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Louisiana Tech</name><score>17</score><site>H</site><line>-9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>7</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Navy</name><score>36</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>20</score><site>V</site></team>
+<team tnum="2"><name>Kansas State</name><score>23</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Lafayette</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Texas Tech</name><score>59</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana State</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>North Texas</name><score>41</score><site>H</site></team>
+</game>
+<game info="@ Shreveport LA"> 
+<team tnum="1"><name>Arkansas</name><score>9</score><line>-6.5</line></team>
+<team tnum="2"><name>S-M-U</name><score>31</score><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>35</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Houston</name><score>24</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>30</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Tulane</name><score>24</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northridge State</name><score>18</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico</name><score>38</score><site>V</site><line>-16.5</line></team>
+<team tnum="2"><name>UTEP</name><score>20</score><site>H</site><line>16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana State</name><score>24</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>Mississippi State</name><score>9</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Utah State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Utah</name><score>32</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Texas Christian</name><score>18</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Arizona</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>35</score><site>V</site><line>-12.0</line></team>
+<team tnum="2"><name>Hawaii</name><score>6</score><site>H</site><line>12</line></team>
+</game>
+</date>
+<date day="1997-09-18">
+<game>
+<team tnum="1"><name>Miami-Florida</name><score>17</score><site>V</site><line>-16.0</line></team>
+<team tnum="2"><name>Pittsburgh</name><score>21</score><site>H</site><line>16</line></team>
+</game>
+</date>
+<date day="1997-09-20">
+<game>
+<team tnum="1"><name>Boston College</name><score>35</score><site>V</site><line>-14.5</line></team>
+<team tnum="2"><name>Rutgers</name><score>21</score><site>H</site><line>14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>28</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>Wake Forest</name><score>26</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Carolina</name><score>40</score><site>V</site><line>-22.0</line></team>
+<team tnum="2"><name>Maryland</name><score>14</score><site>H</site><line>22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Penn State</name><score>57</score><site>V</site><line>-20.5</line></team>
+<team tnum="2"><name>Louisville</name><score>21</score><site>H</site><line>20.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Purdue</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>3</score><site>V</site><line>25.5</line></team>
+<team tnum="2"><name>Michigan</name><score>38</score><site>H</site><line>-25.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>10</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Wisconsin</name><score>36</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington State</name><score>35</score><site>V</site><line>-9.5</line></team>
+<team tnum="2"><name>Illinois</name><score>22</score><site>H</site><line>9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>3</score><site>V</site><line>28.5</line></team>
+<team tnum="2"><name>Georgia</name><score>42</score><site>H</site><line>-28.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kentucky</name><score>49</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Indiana</name><score>7</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>40</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Northwestern</name><score>34</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas</name><score>17</score><site>V</site><line>18.5</line></team>
+<team tnum="2"><name>Alabama</name><score>16</score><site>H</site><line>-18.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan State</name><score>23</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Notre Dame</name><score>7</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>South Carolina</name><score>26</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>East Carolina</name><score>0</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona</name><score>20</score><site>V</site><line>17.5</line></team>
+<team tnum="2"><name>Ohio State</name><score>28</score><site>H</site><line>-17.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>35</score><site>V</site><line>-20.0</line></team>
+<team tnum="2"><name>Clemson</name><score>28</score><site>H</site><line>20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa</name><score>63</score><site>V</site><line>-25.0</line></team>
+<team tnum="2"><name>Iowa State</name><score>20</score><site>H</site><line>25</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nebraska</name><score>27</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Washington</name><score>14</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tennessee</name><score>20</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Florida</name><score>33</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>40</score><site>V</site><line>16.5</line></team>
+<team tnum="2"><name>Oregon</name><score>43</score><site>H</site><line>-16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>10</score><site>V</site><line>28.0</line></team>
+<team tnum="2"><name>Wyoming</name><score>30</score><site>H</site><line>-28</line></team>
+</game>
+<game>
+<team tnum="1"><name>Stanford</name><score>27</score><site>V</site><line>-11.5</line></team>
+<team tnum="2"><name>Oregon State</name><score>24</score><site>H</site><line>11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri</name><score>42</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Tulsa</name><score>21</score><site>H</site><line>4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Lafayette</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Texas A+M</name><score>66</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>41</score><site>V</site></team>
+<team tnum="2"><name>Eastern Michigan</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Reno</name><score>19</score><site>V</site></team>
+<team tnum="2"><name>Southern Miss</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Tulane</name><score>19</score><site>V</site><line>20.5</line></team>
+<team tnum="2"><name>Syracuse</name><score>30</score><site>H</site><line>-20.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Tech</name><score>23</score><site>V</site><line>-22.0</line></team>
+<team tnum="2"><name>Temple</name><score>13</score><site>H</site><line>22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma</name><score>36</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>California</name><score>40</score><site>H</site><line>-4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Toledo</name><score>23</score><site>V</site></team>
+<team tnum="2"><name>Western Michigan</name><score>13</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Army</name><score>17</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Duke</name><score>20</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>Akron</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Buffalo</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Ohio</name><score>50</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>28</score><site>V</site></team>
+<team tnum="2"><name>Louisiana Tech</name><score>56</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>U-C-F</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Jacksonville St</name><score>16</score><site>V</site></team>
+<team tnum="2"><name>U-A-B</name><score>34</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas</name><score>7</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Cincinnati</name><score>34</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>20</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Memphis</name><score>17</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Illinois</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>No Carolina State</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Utah</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Arkansas State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Western Illinois</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>48</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Auburn</name><score>31</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Louisiana State</name><score>28</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>30</score><site>V</site></team>
+<team tnum="2"><name>Texas Tech</name><score>27</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Navy</name><score>46</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>S-M-U</name><score>16</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>16</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Vanderbilt</name><score>40</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Air Force</name><score>24</score><site>V</site><line>13.5</line></team>
+<team tnum="2"><name>Colorado State</name><score>0</score><site>H</site><line>-13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>3</score><site>V</site><line>25.5</line></team>
+<team tnum="2"><name>Utah</name><score>56</score><site>H</site><line>-25.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Weber State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Boise State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico</name><score>25</score><site>V</site></team>
+<team tnum="2"><name>Utah State</name><score>22</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Brigham Young</name><score>13</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Arizona State</name><score>10</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Hawaii</name><score>15</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Nevada-Las Vegas</name><score>25</score><site>H</site><line>-4</line></team>
+</game>
+</date>
+<date day="1997-09-25">
+<game>
+<team tnum="1"><name>No Carolina State</name><score>18</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Wake Forest</name><score>19</score><site>H</site><line>4.5</line></team>
+</game>
+</date>
+<date day="1997-09-27">
+<game>
+<team tnum="1"><name>Navy</name><score>17</score><site>V</site><line>-9.5</line></team>
+<team tnum="2"><name>Duke</name><score>26</score><site>H</site><line>9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio State</name><score>31</score><site>V</site><line>-15.5</line></team>
+<team tnum="2"><name>Missouri</name><score>10</score><site>H</site><line>15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia</name><score>20</score><site>V</site><line>15.5</line></team>
+<team tnum="2"><name>North Carolina</name><score>48</score><site>H</site><line>-15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern</name><score>9</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Purdue</name><score>21</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois</name><score>10</score><site>V</site><line>28.0</line></team>
+<team tnum="2"><name>Iowa</name><score>38</score><site>H</site><line>-28</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Virginia Tech</name><score>50</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>Central Michigan</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>38</score><site>V</site></team>
+<team tnum="2"><name>Army</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Ohio</name><score>31</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Florida</name><score>55</score><site>V</site><line>-19.5</line></team>
+<team tnum="2"><name>Kentucky</name><score>28</score><site>H</site><line>19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>19</score><site>V</site><line>13.0</line></team>
+<team tnum="2"><name>Colorado</name><score>20</score><site>H</site><line>-13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>42</score><site>V</site></team>
+<team tnum="2"><name>Ball State</name><score>16</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana</name><score>26</score><site>V</site><line>13.0</line></team>
+<team tnum="2"><name>Wisconsin</name><score>27</score><site>H</site><line>-13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Kansas State</name><score>58</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Brigham Young</name><score>19</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>S-M-U</name><score>16</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona</name><score>27</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>40</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>14</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Michigan</name><score>21</score><site>H</site><line>-14</line></team>
+</game>
+<game info="@ Irving TX"> 
+<team tnum="1"><name>Texas A+M</name><score>36</score></team>
+<team tnum="2"><name>North Texas</name><score>10</score></team>
+</game>
+<game>
+<team tnum="1"><name>West Virginia</name><score>28</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Miami-Florida</name><score>17</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona State</name><score>13</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Oregon State</name><score>10</score><site>H</site><line>10.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Washington State</name><score>58</score><site>H</site></team>
+</game>
+<game info="@ Birmingham AL"> 
+<team tnum="1"><name>Southern Miss</name><score>13</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Alabama</name><score>27</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Cincinnati</name><score>24</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Boston College</name><score>6</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Maryland</name><score>24</score><site>V</site><line>-1.0</line></team>
+<team tnum="2"><name>Temple</name><score>21</score><site>H</site><line>1</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Auburn</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Houston</name><score>45</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Minnesota</name><score>43</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisville</name><score>14</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Oklahoma</name><score>35</score><site>H</site><line>-9</line></team>
+</game>
+<game info="@ Little Rock AR"> 
+<team tnum="1"><name>Louisiana Tech</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Arkansas</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>7</score><site>V</site><line>21.5</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>38</score><site>H</site><line>-21.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Reno</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>31</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Cal</name><score>27</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>California</name><score>17</score><site>H</site><line>3</line></team>
+</game>
+<game>
+<team tnum="1"><name>South Carolina</name><score>17</score><site>V</site><line>-2.5</line></team>
+<team tnum="2"><name>Mississippi State</name><score>37</score><site>H</site><line>2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Vanderbilt</name><score>3</score><site>V</site><line>2.0</line></team>
+<team tnum="2"><name>Mississippi</name><score>15</score><site>H</site><line>-2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Clemson</name><score>20</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Georgia Tech</name><score>23</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Louisiana State</name><score>56</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas</name><score>38</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Rice</name><score>31</score><site>H</site><line>14</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>42</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico State</name><score>16</score><site>V</site></team>
+<team tnum="2"><name>UTEP</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>18</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Air Force</name><score>24</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois State</name><score>6</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Las Vegas</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon</name><score>49</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Stanford</name><score>58</score><site>H</site><line>-8.5</line></team>
+</game>
+</date>
+<date day="1997-10-02">
+<game>
+<team tnum="1"><name>Utah</name><score>13</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Fresno State</name><score>27</score><site>H</site><line>9</line></team>
+</game>
+</date>
+<date day="1997-10-03">
+<game>
+<team tnum="1"><name>Utah State</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Brigham Young</name><score>42</score><site>H</site></team>
+</game>
+</date>
+<date day="1997-10-04">
+<game>
+<team tnum="1"><name>East Carolina</name><score>0</score><site>V</site><line>13.5</line></team>
+<team tnum="2"><name>Syracuse</name><score>56</score><site>H</site><line>-13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa</name><score>7</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Ohio State</name><score>23</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Florida</name><score>0</score><site>V</site><line>19.5</line></team>
+<team tnum="2"><name>Florida State</name><score>47</score><site>H</site><line>-19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>13</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Temple</name><score>17</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>0</score><site>V</site><line>27.0</line></team>
+<team tnum="2"><name>West Virginia</name><score>48</score><site>H</site><line>-27</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>13</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Virginia</name><score>21</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Auburn</name><score>23</score><site>V</site><line>-7.5</line></team>
+<team tnum="2"><name>South Carolina</name><score>6</score><site>H</site><line>7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas</name><score>7</score><site>V</site><line>34.0</line></team>
+<team tnum="2"><name>Florida</name><score>56</score><site>H</site><line>-34</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Virginia Tech</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>10</score><site>V</site><line>25.0</line></team>
+<team tnum="2"><name>Michigan State</name><score>31</score><site>H</site><line>-25</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi</name><score>17</score><site>V</site><line>25.0</line></team>
+<team tnum="2"><name>Tennessee</name><score>31</score><site>H</site><line>-25</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>7</score><site>V</site><line>35.0</line></team>
+<team tnum="2"><name>Clemson</name><score>39</score><site>H</site><line>-35</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi State</name><score>0</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Georgia</name><score>47</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Illinois</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Bowling Green</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas State</name><score>26</score><site>V</site><line>20.0</line></team>
+<team tnum="2"><name>Nebraska</name><score>56</score><site>H</site><line>-20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas A+M</name><score>16</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Colorado</name><score>10</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>59</score><site>V</site></team>
+<team tnum="2"><name>Kent State</name><score>43</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>21</score><site>V</site><line>17.5</line></team>
+<team tnum="2"><name>Missouri</name><score>45</score><site>H</site><line>-17.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana State</name><score>7</score><site>V</site><line>-15.5</line></team>
+<team tnum="2"><name>Vanderbilt</name><score>6</score><site>H</site><line>15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan</name><score>37</score><site>V</site><line>-20.0</line></team>
+<team tnum="2"><name>Indiana</name><score>0</score><site>H</site><line>20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma</name><score>17</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Kansas</name><score>20</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Penn State</name><score>41</score><site>V</site><line>-25.5</line></team>
+<team tnum="2"><name>Illinois</name><score>6</score><site>H</site><line>25.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>42</score><site>V</site><line>-11.0</line></team>
+<team tnum="2"><name>Tulsa</name><score>24</score><site>H</site><line>11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas</name><score>16</score><site>V</site><line>-8.5</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>42</score><site>H</site><line>8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>The Citadel</name><score>3</score><site>V</site></team>
+<team tnum="2"><name>Air Force</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>42</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>Boston College</name><score>14</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Hawaii</name><score>0</score><site>V</site><line>24.0</line></team>
+<team tnum="2"><name>Colorado State</name><score>63</score><site>H</site><line>-24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Houston</name><score>10</score><site>V</site><line>23.5</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>66</score><site>H</site><line>-23.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>15</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Stanford</name><score>33</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>12</score><site>V</site><line>18.0</line></team>
+<team tnum="2"><name>Oregon State</name><score>26</score><site>H</site><line>-18</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington State</name><score>24</score><site>V</site><line>-7.5</line></team>
+<team tnum="2"><name>Oregon</name><score>13</score><site>H</site><line>7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Montana</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Wyoming</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Duke</name><score>10</score><site>V</site><line>3.5</line></team>
+<team tnum="2"><name>Maryland</name><score>16</score><site>H</site><line>-3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisville</name><score>24</score><site>V</site><line>15.0</line></team>
+<team tnum="2"><name>Southern Miss</name><score>42</score><site>H</site><line>-15</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>17</score><site>V</site></team>
+<team tnum="2"><name>Idaho</name><score>30</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>47</score><site>V</site></team>
+<team tnum="2"><name>Eastern Michigan</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona State</name><score>14</score><site>V</site><line>15.0</line></team>
+<team tnum="2"><name>Washington</name><score>26</score><site>H</site><line>-15</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Western Michigan</name><score>21</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Alabama</name><score>34</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Kentucky</name><score>40</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Akron</name><score>53</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Memphis</name><score>17</score><site>V</site><line>12.5</line></team>
+<team tnum="2"><name>Cincinnati</name><score>20</score><site>H</site><line>-12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Lafayette</name><score>41</score><site>V</site></team>
+<team tnum="2"><name>Arkansas State</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Tech</name><score>35</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Baylor</name><score>14</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wisconsin</name><score>26</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Northwestern</name><score>25</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Western Kentucky</name><score>16</score><site>V</site></team>
+<team tnum="2"><name>U-A-B</name><score>20</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Army</name><score>0</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Tulane</name><score>41</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Louisiana Tech</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern St(LA)</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>UL-Monroe</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>North Carolina</name><score>31</score><site>V</site><line>-26.0</line></team>
+<team tnum="2"><name>Texas Christian</name><score>10</score><site>H</site><line>26</line></team>
+</game>
+<game>
+<team tnum="1"><name>S-M-U</name><score>15</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>New Mexico</name><score>22</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Cal-San Luis Obispo</name><score>38</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>21</score><site>V</site><line>25.5</line></team>
+<team tnum="2"><name>Southern Cal</name><score>35</score><site>H</site><line>-25.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>28</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Arizona</name><score>31</score><site>H</site><line>-10</line></team>
+</game>
+</date>
+<date day="1997-10-09">
+<game>
+<team tnum="1"><name>Syracuse</name><score>50</score><site>V</site><line>-28.0</line></team>
+<team tnum="2"><name>Rutgers</name><score>3</score><site>H</site><line>28</line></team>
+</game>
+</date>
+<date day="1997-10-11">
+<game>
+<team tnum="1"><name>Air Force</name><score>10</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Navy</name><score>7</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boston College</name><score>7</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Virginia Tech</name><score>17</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>51</score><site>V</site><line>-32.0</line></team>
+<team tnum="2"><name>Duke</name><score>27</score><site>H</site><line>32</line></team>
+</game>
+<game>
+<team tnum="1"><name>No Carolina State</name><score>17</score><site>V</site><line>5.0</line></team>
+<team tnum="2"><name>Georgia Tech</name><score>27</score><site>H</site><line>-5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern</name><score>6</score><site>V</site><line>24.0</line></team>
+<team tnum="2"><name>Michigan</name><score>23</score><site>H</site><line>-24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kentucky</name><score>24</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>South Carolina</name><score>38</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia</name><score>13</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Tennessee</name><score>38</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio State</name><score>27</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Penn State</name><score>31</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Toledo</name><score>41</score><site>V</site></team>
+<team tnum="2"><name>Central Michigan</name><score>10</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia</name><score>21</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Clemson</name><score>7</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Bowling Green</name><score>21</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>West Virginia</name><score>31</score><site>V</site><line>-9.5</line></team>
+<team tnum="2"><name>Maryland</name><score>14</score><site>H</site><line>9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>12</score><site>V</site><line>22.0</line></team>
+<team tnum="2"><name>North Carolina</name><score>30</score><site>H</site><line>-22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>17</score><site>V</site><line>30.5</line></team>
+<team tnum="2"><name>Texas A+M</name><score>56</score><site>H</site><line>-30.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana Tech</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Auburn</name><score>49</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan State</name><score>38</score><site>V</site><line>-19.0</line></team>
+<team tnum="2"><name>Indiana</name><score>6</score><site>H</site><line>19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois</name><score>7</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Wisconsin</name><score>31</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri</name><score>11</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Kansas State</name><score>41</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>33</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Tulsa</name><score>18</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Brigham Young</name><score>14</score><site>V</site><line>-2.5</line></team>
+<team tnum="2"><name>Rice</name><score>27</score><site>H</site><line>2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado</name><score>29</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>33</score><site>H</site><line>1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>S-M-U</name><score>20</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Utah</name><score>19</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tulane</name><score>64</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Louisville</name><score>33</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>45</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Pittsburgh</name><score>21</score><site>H</site><line>10.5</line></team>
+</game>
+<game info="@ Dallas TX"> 
+<team tnum="1"><name>Oklahoma</name><score>24</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Texas</name><score>27</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>23</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>East Carolina</name><score>13</score><site>H</site><line>9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington</name><score>30</score><site>V</site><line>-15.5</line></team>
+<team tnum="2"><name>California</name><score>3</score><site>H</site><line>15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Samford</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>U-C-F</name><score>52</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>U.C.L.A.</name><score>39</score><site>V</site><line>-11.0</line></team>
+<team tnum="2"><name>Oregon</name><score>31</score><site>H</site><line>11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah State</name><score>16</score><site>V</site></team>
+<team tnum="2"><name>Oregon State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>19</score><site>V</site><line>8.0</line></team>
+<team tnum="2"><name>Nevada-Las Vegas</name><score>21</score><site>H</site><line>-8</line></team>
+</game>
+<game>
+<team tnum="1"><name>Vanderbilt</name><score>17</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>30</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>32</score><site>V</site></team>
+<team tnum="2"><name>Eastern Michigan</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>55</score><site>V</site><line>-22.0</line></team>
+<team tnum="2"><name>San Jose State</name><score>20</score><site>H</site><line>22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Cal</name><score>7</score><site>V</site><line>2.0</line></team>
+<team tnum="2"><name>Arizona State</name><score>35</score><site>H</site><line>-2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>17</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>52</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>9</score><site>V</site></team>
+<team tnum="2"><name>Memphis</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>UC-Davis</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Idaho</name><score>44</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Florida</name><score>21</score><site>V</site><line>-14.0</line></team>
+<team tnum="2"><name>Louisiana State</name><score>28</score><site>H</site><line>14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>62</score><site>V</site></team>
+<team tnum="2"><name>Kent State</name><score>26</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nebraska</name><score>49</score><site>V</site><line>-36.0</line></team>
+<team tnum="2"><name>Baylor</name><score>21</score><site>H</site><line>36</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>10</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Mississippi State</name><score>24</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Purdue</name><score>59</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Minnesota</name><score>43</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>29</score><site>V</site></team>
+<team tnum="2"><name>Cincinnati</name><score>33</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico State</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Boise State</name><score>52</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas</name><score>7</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Texas Tech</name><score>17</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Alabama</name><score>48</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>40</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico</name><score>36</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>San Diego State</name><score>21</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Stanford</name><score>22</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Arizona</name><score>28</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>16</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Hawaii</name><score>28</score><site>H</site><line>6</line></team>
+</game>
+</date>
+<date day="1997-10-18">
+<game>
+<team tnum="1"><name>Iowa</name><score>24</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Michigan</name><score>28</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Florida</name><score>45</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Boston College</name><score>44</score><site>H</site><line>4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Carolina</name><score>20</score><site>V</site><line>-11.5</line></team>
+<team tnum="2"><name>No Carolina State</name><score>7</score><site>H</site><line>11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>35</score><site>V</site><line>15.5</line></team>
+<team tnum="2"><name>Army</name><score>37</score><site>H</site><line>-15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>7</score><site>V</site><line>28.0</line></team>
+<team tnum="2"><name>Syracuse</name><score>60</score><site>H</site><line>-28</line></team>
+</game>
+<game>
+<team tnum="1"><name>Duke</name><score>10</score><site>V</site><line>16.0</line></team>
+<team tnum="2"><name>Virginia</name><score>13</score><site>H</site><line>-16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wisconsin</name><score>20</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Purdue</name><score>45</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>27</score><site>V</site></team>
+<team tnum="2"><name>Western Michigan</name><score>50</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Maryland</name><score>17</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Wake Forest</name><score>35</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>15</score><site>V</site><line>34.0</line></team>
+<team tnum="2"><name>Penn State</name><score>16</score><site>H</site><line>-34</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Military</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Navy</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana</name><score>0</score><site>V</site><line>33.0</line></team>
+<team tnum="2"><name>Ohio State</name><score>31</score><site>H</site><line>-33</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas</name><score>6</score><site>V</site><line>14.5</line></team>
+<team tnum="2"><name>Colorado</name><score>42</score><site>H</site><line>-14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Tech</name><score>0</score><site>V</site><line>37.0</line></team>
+<team tnum="2"><name>Nebraska</name><score>29</score><site>H</site><line>-37</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Ohio</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Ball State</name><score>37</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia</name><score>34</score><site>V</site><line>-10.0</line></team>
+<team tnum="2"><name>Vanderbilt</name><score>13</score><site>H</site><line>10</line></team>
+</game>
+<game>
+<team tnum="1"><name>Hawaii</name><score>3</score><site>V</site><line>26.0</line></team>
+<team tnum="2"><name>Brigham Young</name><score>17</score><site>H</site><line>-26</line></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Miami-Ohio</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Illinois</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>41</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas</name><score>29</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Missouri</name><score>37</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>20</score><site>V</site><line>12.0</line></team>
+<team tnum="2"><name>Air Force</name><score>17</score><site>H</site><line>-12</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas A+M</name><score>17</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Kansas State</name><score>36</score><site>H</site><line>1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>23</score><site>V</site><line>15.0</line></team>
+<team tnum="2"><name>Oklahoma</name><score>24</score><site>H</site><line>-15</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>14</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Wyoming</name><score>7</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona State</name><score>31</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Stanford</name><score>14</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Florida</name><score>24</score><site>V</site><line>-11.0</line></team>
+<team tnum="2"><name>Auburn</name><score>10</score><site>H</site><line>11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>0</score><site>V</site><line>23.0</line></team>
+<team tnum="2"><name>Florida State</name><score>38</score><site>H</site><line>-23</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan State</name><score>17</score><site>V</site><line>-13.0</line></team>
+<team tnum="2"><name>Northwestern</name><score>19</score><site>H</site><line>13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon State</name><score>10</score><site>V</site><line>22.0</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>34</score><site>H</site><line>-22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Cal</name><score>20</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Notre Dame</name><score>17</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington</name><score>58</score><site>V</site><line>-12.0</line></team>
+<team tnum="2"><name>Arizona</name><score>28</score><site>H</site><line>12</line></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>37</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>Washington State</name><score>63</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah</name><score>13</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Oregon</name><score>31</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Louisiana Tech</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho</name><score>23</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Eastern Michigan</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>14</score><site>V</site><line>25.0</line></team>
+<team tnum="2"><name>Kentucky</name><score>49</score><site>H</site><line>-25</line></team>
+</game>
+<game info="@ Little Rock AR"> 
+<team tnum="1"><name>South Carolina</name><score>39</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Arkansas</name><score>13</score><site>H</site><line>1.5</line></team>
+</game>
+<game info="@ Birmingham AL"> 
+<team tnum="1"><name>Tennessee</name><score>38</score><site>V</site><line>-8.5</line></team>
+<team tnum="2"><name>Alabama</name><score>21</score><site>H</site><line>8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>17</score><site>V</site></team>
+<team tnum="2"><name>North Texas</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Cincinnati</name><score>38</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>Houston</name><score>41</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>East Carolina</name><score>16</score><site>V</site><line>8.0</line></team>
+<team tnum="2"><name>Tulane</name><score>33</score><site>H</site><line>-8</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi</name><score>36</score><site>V</site><line>16.0</line></team>
+<team tnum="2"><name>Louisiana State</name><score>21</score><site>H</site><line>-16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tulsa</name><score>33</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Texas Christian</name><score>22</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico State</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Utah State</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>35</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>New Mexico</name><score>23</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>10</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>UTEP</name><score>7</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>17</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>San Diego State</name><score>20</score><site>H</site><line>-7</line></team>
+</game>
+</date>
+<date day="1997-10-25">
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>55</score><site>V</site><line>-15.0</line></team>
+<team tnum="2"><name>Rutgers</name><score>48</score><site>H</site><line>15</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>38</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>Duke</name><score>24</score><site>H</site><line>3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan</name><score>23</score><site>V</site><line>-2.5</line></team>
+<team tnum="2"><name>Michigan State</name><score>7</score><site>H</site><line>2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Clemson</name><score>20</score><site>V</site><line>-13.0</line></team>
+<team tnum="2"><name>Maryland</name><score>9</score><site>H</site><line>13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colgate</name><score>27</score><site>V</site></team>
+<team tnum="2"><name>Army</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Toledo</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Bowling Green</name><score>20</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kentucky</name><score>13</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Georgia</name><score>23</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Alabama</name><score>29</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>Mississippi</name><score>20</score><site>H</site><line>1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>17</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Iowa State</name><score>24</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Cincinnati</name><score>34</score><site>V</site></team>
+<team tnum="2"><name>Miami-Ohio</name><score>31</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nebraska</name><score>35</score><site>V</site><line>-33.0</line></team>
+<team tnum="2"><name>Kansas</name><score>0</score><site>H</site><line>33</line></team>
+</game>
+<game>
+<team tnum="1"><name>Purdue</name><score>48</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>Illinois</name><score>3</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>10</score><site>V</site><line>18.0</line></team>
+<team tnum="2"><name>Brigham Young</name><score>31</score><site>H</site><line>-18</line></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana</name><score>0</score><site>V</site><line>28.0</line></team>
+<team tnum="2"><name>Iowa</name><score>62</score><site>H</site><line>-28</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas A+M</name><score>13</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Texas Tech</name><score>16</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boston College</name><score>20</score><site>V</site><line>14.5</line></team>
+<team tnum="2"><name>Notre Dame</name><score>52</score><site>H</site><line>-14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>28</score><site>V</site></team>
+<team tnum="2"><name>Mississippi State</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas State</name><score>26</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Oklahoma</name><score>7</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Houston</name><score>36</score><site>V</site><line>2.0</line></team>
+<team tnum="2"><name>Louisville</name><score>22</score><site>H</site><line>-2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri</name><score>51</score><site>V</site><line>10.0</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>50</score><site>H</site><line>-10</line></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico</name><score>10</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Utah</name><score>15</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>17</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>S-M-U</name><score>22</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana Tech</name><score>31</score><site>V</site></team>
+<team tnum="2"><name>Boise State</name><score>27</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>17</score><site>V</site><line>23.5</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>35</score><site>H</site><line>-23.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado</name><score>47</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Texas</name><score>30</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Memphis</name><score>10</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>East Carolina</name><score>32</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern</name><score>6</score><site>V</site><line>21.0</line></team>
+<team tnum="2"><name>Ohio State</name><score>49</score><site>H</site><line>-21</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Akron</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Tech</name><score>17</score><site>V</site><line>2.0</line></team>
+<team tnum="2"><name>West Virginia</name><score>30</score><site>H</site><line>-2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>15</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Miami-Florida</name><score>47</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington</name><score>45</score><site>V</site><line>-21.5</line></team>
+<team tnum="2"><name>Oregon State</name><score>17</score><site>H</site><line>21.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ball State</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>14</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>65</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>28</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>21</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Tulane</name><score>13</score><site>V</site><line>8.0</line></team>
+<team tnum="2"><name>Southern Miss</name><score>34</score><site>H</site><line>-8</line></team>
+</game>
+<game>
+<team tnum="1"><name>Air Force</name><score>22</score><site>V</site><line>-13.5</line></team>
+<team tnum="2"><name>San Jose State</name><score>25</score><site>H</site><line>13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona</name><score>34</score><site>V</site><line>15.5</line></team>
+<team tnum="2"><name>Washington State</name><score>35</score><site>H</site><line>-15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Auburn</name><score>26</score><site>V</site><line>-17.0</line></team>
+<team tnum="2"><name>Arkansas</name><score>21</score><site>H</site><line>17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>37</score><site>V</site></team>
+<team tnum="2"><name>Kent State</name><score>60</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>25</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>48</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>47</score><site>V</site><line>-20.0</line></team>
+<team tnum="2"><name>Virginia</name><score>21</score><site>H</site><line>20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Vanderbilt</name><score>3</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>South Carolina</name><score>35</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wisconsin</name><score>22</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Minnesota</name><score>21</score><site>H</site><line>4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah State</name><score>63</score><site>V</site></team>
+<team tnum="2"><name>Idaho</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>20</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>34</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>28</score><site>V</site><line>11.5</line></team>
+<team tnum="2"><name>Fresno State</name><score>46</score><site>H</site><line>-11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon</name><score>22</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Southern Cal</name><score>24</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>10</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Hawaii</name><score>3</score><site>H</site><line>6.5</line></team>
+</game>
+</date>
+<date day="1997-10-26">
+<game>
+<team tnum="1"><name>Tulsa</name><score>8</score><site>V</site><line>25.5</line></team>
+<team tnum="2"><name>Colorado State</name><score>44</score><site>H</site><line>-25.5</line></team>
+</game>
+</date>
+<date day="1997-10-30">
+<game>
+<team tnum="1"><name>North Carolina</name><score>16</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Georgia Tech</name><score>13</score><site>H</site><line>9</line></team>
+</game>
+</date>
+<date day="1997-11-01">
+<game>
+<team tnum="1"><name>Clemson</name><score>33</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>Wake Forest</name><score>16</score><site>H</site><line>3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>21</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Boston College</name><score>22</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>7</score><site>V</site><line>9.5</line></team>
+<team tnum="2"><name>Temple</name><score>49</score><site>H</site><line>-9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>3</score><site>V</site><line>24.5</line></team>
+<team tnum="2"><name>Michigan</name><score>24</score><site>H</site><line>-24.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Ball State</name><score>31</score><site>H</site></team>
+</game>
+<game info="@ Jacksonville FL"> 
+<team tnum="1"><name>Florida</name><score>17</score><line>-18.5</line></team>
+<team tnum="2"><name>Georgia</name><score>37</score><line>18.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois</name><score>6</score><site>V</site><line>5.0</line></team>
+<team tnum="2"><name>Indiana</name><score>23</score><site>H</site><line>-5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Marshall</name><score>45</score><site>V</site></team>
+<team tnum="2"><name>Central Michigan</name><score>17</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>28</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio State</name><score>37</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Michigan State</name><score>13</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>South Carolina</name><score>7</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Tennessee</name><score>22</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>24</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>Cincinnati</name><score>17</score><site>H</site><line>5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Virginia Tech</name><score>37</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia</name><score>45</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Maryland</name><score>0</score><site>H</site><line>9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>41</score><site>V</site></team>
+<team tnum="2"><name>Eastern Michigan</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana State</name><score>63</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Kentucky</name><score>28</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri</name><score>41</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Colorado</name><score>31</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Navy</name><score>17</score><site>V</site><line>16.0</line></team>
+<team tnum="2"><name>Notre Dame</name><score>21</score><site>H</site><line>-16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma</name><score>7</score><site>V</site><line>35.5</line></team>
+<team tnum="2"><name>Nebraska</name><score>69</score><site>H</site><line>-35.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Houston</name><score>3</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Memphis</name><score>24</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>24</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Kansas</name><score>34</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas State</name><score>13</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>Texas Tech</name><score>2</score><site>H</site><line>5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana Tech</name><score>26</score><site>V</site></team>
+<team tnum="2"><name>Alabama</name><score>20</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi State</name><score>20</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>Auburn</name><score>0</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>30</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma State</name><score>25</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Texas A+M</name><score>28</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Penn State</name><score>30</score><site>V</site><line>-16.0</line></team>
+<team tnum="2"><name>Northwestern</name><score>27</score><site>H</site><line>16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas</name><score>21</score><site>V</site><line>-8.0</line></team>
+<team tnum="2"><name>Baylor</name><score>23</score><site>H</site><line>8</line></team>
+</game>
+<game>
+<team tnum="1"><name>Purdue</name><score>17</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Iowa</name><score>35</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>East Carolina</name><score>45</score><site>V</site><line>-3.0</line></team>
+<team tnum="2"><name>Louisville</name><score>31</score><site>H</site><line>3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>6</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>S-M-U</name><score>24</score><site>H</site><line>5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>17</score><site>V</site><line>11.5</line></team>
+<team tnum="2"><name>Wyoming</name><score>41</score><site>H</site><line>-11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah</name><score>13</score><site>V</site><line>-9.5</line></team>
+<team tnum="2"><name>Tulsa</name><score>21</score><site>H</site><line>9.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>20</score><site>V</site></team>
+<team tnum="2"><name>Utah State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>New Mexico</name><score>40</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Texas Christian</name><score>10</score><site>H</site><line>9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>20</score><site>V</site></team>
+<team tnum="2"><name>Kent State</name><score>29</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>No Carolina State</name><score>35</score><site>V</site><line>30.0</line></team>
+<team tnum="2"><name>Florida State</name><score>48</score><site>H</site><line>-30</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Reno</name><score>45</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon State</name><score>14</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>California</name><score>33</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Cal</name><score>0</score><site>V</site><line>18.0</line></team>
+<team tnum="2"><name>Washington</name><score>27</score><site>H</site><line>-18</line></team>
+</game>
+<game>
+<team tnum="1"><name>U.C.L.A.</name><score>27</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Stanford</name><score>7</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas State</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Miami-Florida</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>45</score><site>V</site><line>-20.5</line></team>
+<team tnum="2"><name>Nevada-Las Vegas</name><score>19</score><site>H</site><line>20.5</line></team>
+</game>
+<game info="@ Spokane WA"> 
+<team tnum="1"><name>Idaho</name><score>21</score><site>V</site></team>
+<team tnum="2"><name>Eastern Washington</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>53</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>San Jose State</name><score>12</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>West Virginia</name><score>10</score><site>V</site><line>7.5</line></team>
+<team tnum="2"><name>Syracuse</name><score>40</score><site>H</site><line>-7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>U-C-F</name><score>41</score><site>V</site></team>
+<team tnum="2"><name>UL-Monroe</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Tulane</name><score>56</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>0</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Brigham Young</name><score>3</score><site>V</site><line>-18.5</line></team>
+<team tnum="2"><name>UTEP</name><score>14</score><site>H</site><line>18.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington State</name><score>31</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Arizona State</name><score>44</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Air Force</name><score>34</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Hawaii</name><score>27</score><site>H</site><line>10.5</line></team>
+</game>
+</date>
+<date day="1997-11-06">
+<game>
+<team tnum="1"><name>Arkansas</name><score>9</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Mississippi</name><score>19</score><site>H</site><line>-9</line></team>
+</game>
+</date>
+<date day="1997-11-08">
+<game>
+<team tnum="1"><name>Boston College</name><score>13</score><site>V</site><line>29.0</line></team>
+<team tnum="2"><name>Syracuse</name><score>20</score><site>H</site><line>-29</line></team>
+</game>
+<game>
+<team tnum="1"><name>Maryland</name><score>28</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>No Carolina State</name><score>45</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Florida</name><score>25</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Virginia Tech</name><score>27</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Miami-Ohio</name><score>45</score><site>V</site></team>
+<team tnum="2"><name>Ohio</name><score>21</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>17</score><site>V</site><line>13.5</line></team>
+<team tnum="2"><name>Navy</name><score>49</score><site>H</site><line>-13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>28</score><site>V</site><line>-22.0</line></team>
+<team tnum="2"><name>Rutgers</name><score>14</score><site>H</site><line>22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>31</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Virginia</name><score>35</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Central Michigan</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Western Michigan</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Duke</name><score>20</score><site>V</site><line>16.0</line></team>
+<team tnum="2"><name>Clemson</name><score>29</score><site>H</site><line>-16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisville</name><score>9</score><site>V</site><line>12.5</line></team>
+<team tnum="2"><name>Cincinnati</name><score>28</score><site>H</site><line>-12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan State</name><score>21</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Purdue</name><score>22</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan</name><score>34</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Penn State</name><score>8</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Toledo</name><score>3</score><site>V</site></team>
+<team tnum="2"><name>Ball State</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Vanderbilt</name><score>7</score><site>V</site><line>35.5</line></team>
+<team tnum="2"><name>Florida</name><score>20</score><site>H</site><line>-35.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>10</score><site>V</site><line>18.5</line></team>
+<team tnum="2"><name>Texas A+M</name><score>38</score><site>H</site><line>-18.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado</name><score>43</score><site>V</site><line>-21.0</line></team>
+<team tnum="2"><name>Iowa State</name><score>38</score><site>H</site><line>21</line></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>38</score><site>V</site></team>
+<team tnum="2"><name>Northern Illinois</name><score>10</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Fresno State</name><score>3</score><site>V</site><line>16.5</line></team>
+<team tnum="2"><name>Colorado State</name><score>41</score><site>H</site><line>-16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa</name><score>10</score><site>V</site><line>-8.5</line></team>
+<team tnum="2"><name>Wisconsin</name><score>13</score><site>H</site><line>8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana Tech</name><score>32</score><site>V</site></team>
+<team tnum="2"><name>U-A-B</name><score>29</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Nebraska</name><score>45</score><site>V</site><line>-27.0</line></team>
+<team tnum="2"><name>Missouri</name><score>38</score><site>H</site><line>27</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northwestern</name><score>34</score><site>V</site><line>-13.0</line></team>
+<team tnum="2"><name>Illinois</name><score>21</score><site>H</site><line>13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma State</name><score>30</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Oklahoma</name><score>7</score><site>H</site><line>4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Tech</name><score>24</score><site>V</site><line>-1.0</line></team>
+<team tnum="2"><name>Texas</name><score>10</score><site>H</site><line>1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tulsa</name><score>39</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>Brigham Young</name><score>49</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Army</name><score>0</score><site>V</site><line>14.5</line></team>
+<team tnum="2"><name>Air Force</name><score>24</score><site>H</site><line>-14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas</name><score>16</score><site>V</site><line>21.5</line></team>
+<team tnum="2"><name>Kansas State</name><score>48</score><site>H</site><line>-21.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>19</score><site>V</site><line>21.5</line></team>
+<team tnum="2"><name>Rice</name><score>38</score><site>H</site><line>-21.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Las Vegas</name><score>23</score><site>V</site><line>19.0</line></team>
+<team tnum="2"><name>Wyoming</name><score>35</score><site>H</site><line>-19</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>14</score><site>V</site><line>18.0</line></team>
+<team tnum="2"><name>S-M-U</name><score>28</score><site>H</site><line>-18</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nevada-Reno</name><score>56</score><site>V</site></team>
+<team tnum="2"><name>Boise State</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona State</name><score>28</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>California</name><score>21</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Bowling Green</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>28</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>East Carolina</name><score>28</score><site>V</site><line>-2.5</line></team>
+<team tnum="2"><name>Houston</name><score>27</score><site>H</site><line>2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>Akron</name><score>45</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana State</name><score>27</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Alabama</name><score>0</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>26</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>15</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon</name><score>31</score><site>V</site><line>21.0</line></team>
+<team tnum="2"><name>Washington</name><score>28</score><site>H</site><line>-21</line></team>
+</game>
+<game>
+<team tnum="1"><name>Stanford</name><score>21</score><site>V</site><line>2.5</line></team>
+<team tnum="2"><name>Southern Cal</name><score>45</score><site>H</site><line>-2.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio State</name><score>31</score><site>V</site><line>-24.0</line></team>
+<team tnum="2"><name>Minnesota</name><score>3</score><site>H</site><line>24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>20</score><site>V</site><line>17.5</line></team>
+<team tnum="2"><name>Tennessee</name><score>44</score><site>H</site><line>-17.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Lafayette</name><score>7</score><site>V</site></team>
+<team tnum="2"><name>Washington State</name><score>77</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Missouri State</name><score>27</score><site>V</site></team>
+<team tnum="2"><name>Arkansas State</name><score>35</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>20</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>North Carolina</name><score>3</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Memphis</name><score>14</score><site>V</site><line>13.0</line></team>
+<team tnum="2"><name>Tulane</name><score>26</score><site>H</site><line>-13</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>21</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>San Diego State</name><score>48</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon State</name><score>7</score><site>V</site><line>15.5</line></team>
+<team tnum="2"><name>Arizona</name><score>27</score><site>H</site><line>-15.5</line></team>
+</game>
+</date>
+<date day="1997-11-13">
+<game>
+<team tnum="1"><name>Cincinnati</name><score>7</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>East Carolina</name><score>14</score><site>H</site><line>0</line></team>
+</game>
+</date>
+<date day="1997-11-15">
+<game>
+<team tnum="1"><name>Penn State</name><score>42</score><site>V</site><line>-6.0</line></team>
+<team tnum="2"><name>Purdue</name><score>17</score><site>H</site><line>6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia Tech</name><score>41</score><site>V</site><line>-7.5</line></team>
+<team tnum="2"><name>Duke</name><score>38</score><site>H</site><line>7.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Illinois</name><score>6</score><site>V</site><line>38.0</line></team>
+<team tnum="2"><name>Ohio State</name><score>41</score><site>H</site><line>-38</line></team>
+</game>
+<game>
+<team tnum="1"><name>Temple</name><score>21</score><site>V</site><line>25.0</line></team>
+<team tnum="2"><name>West Virginia</name><score>41</score><site>H</site><line>-25</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia</name><score>24</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>No Carolina State</name><score>31</score><site>H</site><line>1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wake Forest</name><score>7</score><site>V</site><line>31.0</line></team>
+<team tnum="2"><name>Florida State</name><score>58</score><site>H</site><line>-31</line></team>
+</game>
+<game>
+<team tnum="1"><name>Akron</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>Toledo</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Auburn</name><score>45</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Georgia</name><score>34</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colgate</name><score>24</score><site>V</site></team>
+<team tnum="2"><name>Navy</name><score>52</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>North Carolina</name><score>17</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>Clemson</name><score>10</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Northern Illinois</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Miami-Ohio</name><score>42</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>North Texas</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Army</name><score>25</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Florida</name><score>48</score><site>V</site><line>-16.0</line></team>
+<team tnum="2"><name>South Carolina</name><score>21</score><site>H</site><line>16</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa State</name><score>14</score><site>V</site><line>42.0</line></team>
+<team tnum="2"><name>Nebraska</name><score>77</score><site>H</site><line>-42</line></team>
+</game>
+<game>
+<team tnum="1"><name>Baylor</name><score>24</score><site>V</site><line>17.0</line></team>
+<team tnum="2"><name>Missouri</name><score>42</score><site>H</site><line>-17</line></team>
+</game>
+<game>
+<team tnum="1"><name>Iowa</name><score>14</score><site>V</site><line>-8.0</line></team>
+<team tnum="2"><name>Northwestern</name><score>15</score><site>H</site><line>8</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas</name><score>31</score><site>V</site><line>8.5</line></team>
+<team tnum="2"><name>Texas</name><score>45</score><site>H</site><line>-8.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kentucky</name><score>21</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>Vanderbilt</name><score>10</score><site>H</site><line>5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisville</name><score>20</score><site>V</site><line>10.5</line></team>
+<team tnum="2"><name>Memphis</name><score>21</score><site>H</site><line>-10.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi State</name><score>32</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Alabama</name><score>20</score><site>H</site><line>-4.5</line></team>
+</game>
+<game info="@ Little Rock AR"> 
+<team tnum="1"><name>Tennessee</name><score>30</score><site>V</site><line>-24.0</line></team>
+<team tnum="2"><name>Arkansas</name><score>22</score><site>H</site><line>24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tennessee Tech</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>U-A-B</name><score>38</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Texas A+M</name><score>51</score><site>V</site><line>-13.0</line></team>
+<team tnum="2"><name>Oklahoma</name><score>7</score><site>H</site><line>13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan</name><score>26</score><site>V</site><line>-15.5</line></team>
+<team tnum="2"><name>Wisconsin</name><score>16</score><site>H</site><line>15.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>3</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>Air Force</name><score>14</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado</name><score>20</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Kansas State</name><score>37</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Rice</name><score>14</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Utah</name><score>31</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>S-M-U</name><score>42</score><site>V</site><line>-9.0</line></team>
+<team tnum="2"><name>Tulsa</name><score>41</score><site>H</site><line>9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Tech</name><score>27</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Oklahoma State</name><score>3</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Western Michigan</name><score>32</score><site>V</site></team>
+<team tnum="2"><name>UL-Monroe</name><score>19</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Brigham Young</name><score>28</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>New Mexico</name><score>38</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah State</name><score>38</score><site>V</site></team>
+<team tnum="2"><name>Nevada-Reno</name><score>19</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Hawaii</name><score>14</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>San Jose State</name><score>38</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Idaho</name><score>35</score><site>V</site></team>
+<team tnum="2"><name>New Mexico State</name><score>18</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>24</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Louisiana State</name><score>6</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio</name><score>0</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>27</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Syracuse</name><score>32</score><site>V</site><line>-19.0</line></team>
+<team tnum="2"><name>Pittsburgh</name><score>27</score><site>H</site><line>19</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington</name><score>28</score><site>V</site><line>0.0</line></team>
+<team tnum="2"><name>U.C.L.A.</name><score>52</score><site>H</site><line>0</line></team>
+</game>
+<game>
+<team tnum="1"><name>Eastern Michigan</name><score>10</score><site>V</site></team>
+<team tnum="2"><name>U-C-F</name><score>27</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Rutgers</name><score>23</score><site>V</site><line>31.5</line></team>
+<team tnum="2"><name>Miami-Florida</name><score>51</score><site>H</site><line>-31.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Cal</name><score>23</score><site>V</site><line>-11.5</line></team>
+<team tnum="2"><name>Oregon State</name><score>0</score><site>H</site><line>11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Diego State</name><score>20</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Fresno State</name><score>19</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Stanford</name><score>28</score><site>V</site><line>16.5</line></team>
+<team tnum="2"><name>Washington State</name><score>38</score><site>H</site><line>-16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Houston</name><score>0</score><site>V</site><line>19.5</line></team>
+<team tnum="2"><name>Southern Miss</name><score>33</score><site>H</site><line>-19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Indiana</name><score>12</score><site>V</site><line>7.0</line></team>
+<team tnum="2"><name>Minnesota</name><score>24</score><site>H</site><line>-7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Louisiana Tech</name><score>63</score><site>V</site></team>
+<team tnum="2"><name>UL-Lafayette</name><score>24</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi</name><score>41</score><site>V</site><line>1.5</line></team>
+<team tnum="2"><name>Tulane</name><score>24</score><site>H</site><line>-1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Texas Christian</name><score>17</score><site>V</site><line>2.0</line></team>
+<team tnum="2"><name>UTEP</name><score>24</score><site>H</site><line>-2</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon</name><score>31</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Arizona State</name><score>52</score><site>H</site><line>-11</line></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>38</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Arizona</name><score>41</score><site>H</site><line>-11</line></team>
+</game>
+</date>
+<date day="1997-11-20">
+<game>
+<team tnum="1"><name>S-M-U</name><score>18</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Texas Christian</name><score>21</score><site>H</site><line>10.5</line></team>
+</game>
+</date>
+<date day="1997-11-22">
+<game>
+<team tnum="1"><name>Army</name><score>20</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Boston College</name><score>24</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Duke</name><score>14</score><site>V</site><line>22.0</line></team>
+<team tnum="2"><name>North Carolina</name><score>50</score><site>H</site><line>-22</line></team>
+</game>
+<game>
+<team tnum="1"><name>Ohio State</name><score>14</score><site>V</site><line>4.0</line></team>
+<team tnum="2"><name>Michigan</name><score>20</score><site>H</site><line>-4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Toledo</name><score>17</score><site>V</site></team>
+<team tnum="2"><name>U-C-F</name><score>34</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>East Carolina</name><score>24</score><site>V</site><line>11.5</line></team>
+<team tnum="2"><name>No Carolina State</name><score>37</score><site>H</site><line>-11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Maryland</name><score>18</score><site>V</site><line>19.5</line></team>
+<team tnum="2"><name>Georgia Tech</name><score>37</score><site>H</site><line>-19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Clemson</name><score>47</score><site>V</site><line>-1.5</line></team>
+<team tnum="2"><name>South Carolina</name><score>21</score><site>H</site><line>1.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kent State</name><score>29</score><site>V</site></team>
+<team tnum="2"><name>Navy</name><score>62</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Michigan State</name><score>27</score><site>V</site><line>-24.0</line></team>
+<team tnum="2"><name>Illinois</name><score>17</score><site>H</site><line>24</line></team>
+</game>
+<game>
+<team tnum="1"><name>Purdue</name><score>56</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>Indiana</name><score>7</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wisconsin</name><score>10</score><site>V</site><line>14.5</line></team>
+<team tnum="2"><name>Penn State</name><score>35</score><site>H</site><line>-14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tennessee</name><score>59</score><site>V</site><line>-14.5</line></team>
+<team tnum="2"><name>Kentucky</name><score>31</score><site>H</site><line>14.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>West Virginia</name><score>14</score><site>V</site><line>6.5</line></team>
+<team tnum="2"><name>Notre Dame</name><score>21</score><site>H</site><line>-6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah State</name><score>48</score><site>V</site></team>
+<team tnum="2"><name>North Texas</name><score>51</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Alabama</name><score>17</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Auburn</name><score>18</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia</name><score>21</score><site>V</site><line>-5.0</line></team>
+<team tnum="2"><name>Mississippi</name><score>14</score><site>H</site><line>5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Kansas State</name><score>28</score><site>V</site><line>-26.0</line></team>
+<team tnum="2"><name>Iowa State</name><score>3</score><site>H</site><line>26</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi State</name><score>7</score><site>V</site><line>-4.0</line></team>
+<team tnum="2"><name>Arkansas</name><score>17</score><site>H</site><line>4</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma</name><score>32</score><site>V</site><line>19.5</line></team>
+<team tnum="2"><name>Texas Tech</name><score>21</score><site>H</site><line>-19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oklahoma State</name><score>24</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>Baylor</name><score>14</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Southern Miss</name><score>42</score><site>V</site><line>-13.0</line></team>
+<team tnum="2"><name>Memphis</name><score>18</score><site>H</site><line>13</line></team>
+</game>
+<game>
+<team tnum="1"><name>Utah</name><score>20</score><site>V</site><line>6.0</line></team>
+<team tnum="2"><name>Brigham Young</name><score>14</score><site>H</site><line>-6</line></team>
+</game>
+<game>
+<team tnum="1"><name>Minnesota</name><score>0</score><site>V</site><line>20.0</line></team>
+<team tnum="2"><name>Iowa</name><score>31</score><site>H</site><line>-20</line></team>
+</game>
+<game>
+<team tnum="1"><name>Tulsa</name><score>13</score><site>V</site><line>16.0</line></team>
+<team tnum="2"><name>New Mexico</name><score>51</score><site>H</site><line>-16</line></team>
+</game>
+<game>
+<team tnum="1"><name>UTEP</name><score>13</score><site>V</site><line>19.5</line></team>
+<team tnum="2"><name>Rice</name><score>31</score><site>H</site><line>-19.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>California</name><score>20</score><site>V</site><line>4.5</line></team>
+<team tnum="2"><name>Stanford</name><score>21</score><site>H</site><line>-4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Florida State</name><score>29</score><site>V</site><line>-5.5</line></team>
+<team tnum="2"><name>Florida</name><score>32</score><site>H</site><line>5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>U.C.L.A.</name><score>31</score><site>V</site><line>-11.5</line></team>
+<team tnum="2"><name>Southern Cal</name><score>24</score><site>H</site><line>11.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Tech</name><score>23</score><site>V</site><line>-10.5</line></team>
+<team tnum="2"><name>Pittsburgh</name><score>30</score><site>H</site><line>10.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Washington State</name><score>41</score><site>V</site><line>5.5</line></team>
+<team tnum="2"><name>Washington</name><score>35</score><site>H</site><line>-5.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Oregon State</name><score>30</score><site>V</site><line>16.5</line></team>
+<team tnum="2"><name>Oregon</name><score>48</score><site>H</site><line>-16.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>San Jose State</name><score>55</score><site>V</site><line>9.0</line></team>
+<team tnum="2"><name>Nevada-Las Vegas</name><score>48</score><site>H</site><line>-9</line></team>
+</game>
+<game>
+<team tnum="1"><name>Wyoming</name><score>7</score><site>V</site><line>-4.5</line></team>
+<team tnum="2"><name>Fresno State</name><score>24</score><site>H</site><line>4.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Boise State</name><score>30</score><site>V</site></team>
+<team tnum="2"><name>Idaho</name><score>23</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>U-A-B</name><score>13</score><site>V</site></team>
+<team tnum="2"><name>Arkansas State</name><score>7</score><site>H</site></team>
+</game>
+<game>
+<team tnum="1"><name>Tulane</name><score>44</score><site>V</site><line>-7.0</line></team>
+<team tnum="2"><name>Houston</name><score>10</score><site>H</site><line>7</line></team>
+</game>
+<game>
+<team tnum="1"><name>Colorado State</name><score>38</score><site>V</site><line>-12.5</line></team>
+<team tnum="2"><name>San Diego State</name><score>17</score><site>H</site><line>12.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>UL-Monroe</name><score>23</score><site>V</site><line>5.0</line></team>
+<team tnum="2"><name>Hawaii</name><score>20</score><site>H</site><line>-5</line></team>
+</game>
+</date>
+<date day="1997-11-28">
+<game>
+<team tnum="1"><name>Texas</name><score>16</score><site>V</site><line>14.0</line></team>
+<team tnum="2"><name>Texas A+M</name><score>27</score><site>H</site><line>-14</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arkansas</name><score>21</score><site>V</site><line>17.5</line></team>
+<team tnum="2"><name>Louisiana State</name><score>31</score><site>H</site><line>-17.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Pittsburgh</name><score>41</score><site>V</site><line>13.5</line></team>
+<team tnum="2"><name>West Virginia</name><score>38</score><site>H</site><line>-13.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Nebraska</name><score>27</score><site>V</site><line>-21.0</line></team>
+<team tnum="2"><name>Colorado</name><score>24</score><site>H</site><line>21</line></team>
+</game>
+<game>
+<team tnum="1"><name>Arizona</name><score>28</score><site>V</site><line>11.0</line></team>
+<team tnum="2"><name>Arizona State</name><score>16</score><site>H</site><line>-11</line></team>
+</game>
+</date>
+<date day="1997-11-29">
+<game>
+<team tnum="1"><name>Penn State</name><score>14</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Michigan State</name><score>49</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Georgia</name><score>27</score><site>V</site><line>-3.5</line></team>
+<team tnum="2"><name>Georgia Tech</name><score>24</score><site>H</site><line>3.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Vanderbilt</name><score>10</score><site>V</site><line>30.0</line></team>
+<team tnum="2"><name>Tennessee</name><score>17</score><site>H</site><line>-30</line></team>
+</game>
+<game>
+<team tnum="1"><name>Mississippi</name><score>15</score><site>V</site><line>1.0</line></team>
+<team tnum="2"><name>Mississippi State</name><score>14</score><site>H</site><line>-1</line></team>
+</game>
+<game>
+<team tnum="1"><name>Virginia Tech</name><score>20</score><site>V</site><line>3.0</line></team>
+<team tnum="2"><name>Virginia</name><score>34</score><site>H</site><line>-3</line></team>
+</game>
+<game>
+<team tnum="1"><name>Syracuse</name><score>33</score><site>V</site><line>-6.5</line></team>
+<team tnum="2"><name>Miami-Florida</name><score>13</score><site>H</site><line>6.5</line></team>
+</game>
+<game>
+<team tnum="1"><name>Notre Dame</name><score>23</score><site>V</site><line>-25.5</line></team>
+<team tnum="2"><name>Hawaii</name><score>22</score><site>H</site><line>25.5</line></team>
+</game>
+</date>
+<date day="1997-12-05">
+<game info="MAC Championship"> 
+<team tnum="1"><name>Toledo</name><score>14</score><site>V</site></team>
+<team tnum="2"><name>Marshall</name><score>34</score><site>H</site></team>
+</game>
+</date>
+<date day="1997-12-06">
+<game info="@ East Rutherford NJ"> 
+<team tnum="1"><name>Army</name><score>7</score><line>14.0</line></team>
+<team tnum="2"><name>Navy</name><score>39</score><line>-14</line></team>
+</game>
+<game info="WAC Championship"> 
+<team tnum="1"><name>New Mexico</name><score>13</score><line>10.5</line></team>
+<team tnum="2"><name>Colorado State</name><score>41</score><line>-10.5</line></team>
+</game>
+<game info="Big 12 Championship"> 
+<team tnum="1"><name>Nebraska</name><score>54</score><line>-15.0</line></team>
+<team tnum="2"><name>Texas A+M</name><score>15</score><line>15</line></team>
+</game>
+<game info="SEC Championship"> 
+<team tnum="1"><name>Auburn</name><score>29</score><line>7.5</line></team>
+<team tnum="2"><name>Tennessee</name><score>30</score><line>-7.5</line></team>
+</game>
+</date>
+</scores>
