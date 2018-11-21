@@ -5,4 +5,18 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="CFB Dataset - AllHistoricalGames.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="CFB Dataset - AllHistoricalGames.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="9.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.1.4" />
+  </ItemGroup>
+
 </Project>
