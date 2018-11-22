@@ -21,61 +21,88 @@ namespace CfbDb
         {
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
-            var optionsBuilder = new DbContextOptionsBuilder<CfbDbContext>().UseInMemoryDatabase(databaseName: "CfbDatabase").Options;
-
-            CfbDbContext context = new CfbDbContext(optionsBuilder);
-
-            Seed(context);
-
-            List<DateTime> gameDays = context.Games.Select(g => g.GameDate).Distinct().OrderBy(d => d).ToList();
-
-            foreach (DateTime gameDay in gameDays)
+            try
             {
-                List<Game> games = GetGamesPlayedOnDay(context, gameDay);
+                var optionsBuilder = new DbContextOptionsBuilder<CfbDbContext>().EnableSensitiveDataLogging(true).UseInMemoryDatabase(databaseName: "CfbDatabase").Options;
 
-                ConcurrentQueue<EloRecord> gameResults = new ConcurrentQueue<EloRecord>();
+                CfbDbContext context = new CfbDbContext(optionsBuilder);
 
+                SeedGames(context);
 
-                foreach (Game g in games)
+                Boolean seedElo = true;
+                if (seedElo)
                 {
-                    ProcessGame(g, context, gameDay, gameResults);
+                    SeedElo(context);
                 }
 
-                //Parallel.ForEach(games, g =>
-                //{
-                //    CfbDbContext processContext = new CfbDbContext(optionsBuilder);
+                List<DateTime> gameDays = context.Games.Select(g => g.GameDate).Distinct().OrderBy(d => d).ToList();
 
-                //    ProcessGame(g, processContext, gameDay, gameResults);
-                //});
+                DateTime lastDayToRun = context.EloRecords.Max(e=>e.Date);
 
-                context.AddRange(gameResults);
+                gameDays = gameDays.Where(gd => gd >= lastDayToRun).ToList();
+
+                context.EloRecords.RemoveRange(context.EloRecords.Where(el => el.Date == lastDayToRun));
                 context.SaveChanges();
+
+                foreach (DateTime gameDay in gameDays)
+                {
+                    List<Game> games = GetGamesPlayedOnDay(context, gameDay);
+
+                    ConcurrentQueue<EloRecord> gameResults = new ConcurrentQueue<EloRecord>();
+
+                    //foreach (Game g in games)
+                    //{
+                    //    ProcessGame(g, context, gameDay, gameResults);
+                    //}
+
+                    List<EloRecord> eloRecords = context.EloRecords.ToList();
+
+                    Parallel.ForEach(games, g =>
+                    {
+                        EloRecord visitingTeamElo = GetLastEloRecordTillDate(eloRecords, g.VisitingTeamName, g.GameDate);
+                        EloRecord homeTeamElo = GetLastEloRecordTillDate(eloRecords, g.HomeTeamName, g.GameDate);
+                        ProcessGame(g,visitingTeamElo, homeTeamElo, gameDay, gameResults);
+                    });
+
+                    context.AddRange(gameResults);
+                    context.SaveChanges();
+                    Console.WriteLine(String.Format("Curent date {0} Execution Took {1}" , gameDay.ToString(),stopwatch.Elapsed.ToString()));
+                }
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
             }
 
-
-            List<EloRecord> allElos = context.EloRecords.OrderBy(e=>e.Date).ToList();
-            using (StreamWriter writer = System.IO.File.AppendText("AllEloValues.txt"))
+            try
             {
-                foreach (var item in allElos)
+                var optionsBuilder = new DbContextOptionsBuilder<CfbDbContext>().EnableSensitiveDataLogging(true).UseInMemoryDatabase(databaseName: "CfbDatabase").Options;
+                CfbDbContext context = new CfbDbContext(optionsBuilder);
+                List<EloRecord> allElos = context.EloRecords.OrderBy(e=>e.Date).ToList();
+                using (StreamWriter writer = System.IO.File.AppendText("AllEloValues.txt"))
                 {
+                    writer.WriteLine("Date,TeamName,EloScore");
+                    foreach (var item in allElos)
+                    {
+                        string line = "";
+                        line += item.Date.ToString("MM/dd/yyyy")+",";
+                        line += item.TeamName + ",";
+                        line += item.EloScore.ToString();
 
-                    string line = "";
-                    line += item.Date.ToString("MM/dd/yyyy")+",";
-                    line += item.TeamName + ",";
-                    line += item.EloScore.ToString();
-
-                    writer.WriteLine(line);
+                        writer.WriteLine(line);
+                    }
                 }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
             }
 
             Console.WriteLine("Execution Took " + stopwatch.Elapsed.ToString());
         }
 
-        private static void ProcessGame(Game g, CfbDbContext context, DateTime gameDay, ConcurrentQueue<EloRecord> gameResults)
+        private static void ProcessGame(Game g, EloRecord visitingTeamElo, EloRecord homeTeamElo, DateTime gameDay, ConcurrentQueue<EloRecord> gameResults)
         {
-            EloRecord visitingTeamElo = GetLastEloRecordTillDate(context, g.VisitingTeamName, gameDay);
-            EloRecord homeTeamElo = GetLastEloRecordTillDate(context, g.HomeTeamName, gameDay);
-
             Decimal expectedVisitingTeamScore = CalculateExpectedScore(visitingTeamElo.EloScore, homeTeamElo.EloScore);
             Decimal expectedHomeTeamScore = 1 - expectedVisitingTeamScore;
 
@@ -123,7 +150,7 @@ namespace CfbDb
             return context.Games.Where(g => g.GameDate == gameDay).ToList();
         }
 
-        public static void Seed(CfbDbContext context)
+        public static void SeedGames(CfbDbContext context)
         {
             Assembly assembly = Assembly.GetExecutingAssembly();
             string resourceName = "CfbDb.CFB Dataset - AllHistoricalGames.csv";
@@ -140,9 +167,26 @@ namespace CfbDb
             context.SaveChanges();
         }
 
-        public static EloRecord GetLastEloRecordTillDate(CfbDbContext context, string teamName, DateTime? endDate =null)
+        public static void SeedElo(CfbDbContext context)
         {
-            IOrderedQueryable<EloRecord> intermediary = context.EloRecords.Where(er => er.TeamName == teamName).OrderByDescending(er => er.Date);
+            Assembly assembly = Assembly.GetExecutingAssembly();
+            string resourceName = "CfbDb.AllEloValues.csv";
+            using (Stream stream = assembly.GetManifestResourceStream(resourceName))
+            {
+                using (StreamReader reader = new StreamReader(stream, Encoding.UTF8))
+                {
+                    CsvReader csvReader = new CsvReader(reader);
+                    var eloRecords = csvReader.GetRecords<EloRecord>().ToArray();
+                    context.EloRecords.AddRange(eloRecords);
+                }
+            }
+
+            context.SaveChanges();
+        }
+
+        public static EloRecord GetLastEloRecordTillDate(List<EloRecord> eloRecords, string teamName, DateTime? endDate =null)
+        {
+            var intermediary = eloRecords.Where(er => er.TeamName == teamName).OrderByDescending(er => er.Date);
 
             List<EloRecord> result = new List<EloRecord>();
             if (endDate.HasValue)

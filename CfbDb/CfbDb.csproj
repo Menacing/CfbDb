@@ -6,10 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="AllEloValues.csv" />
     <None Remove="CFB Dataset - AllHistoricalGames.csv" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="AllEloValues.csv" />
     <EmbeddedResource Include="CFB Dataset - AllHistoricalGames.csv" />
   </ItemGroup>
 
