@@ -12,7 +12,7 @@ using System.Diagnostics;
 
 namespace CfbDb
 {
-    class Program
+    public class Program
     {
         private const int defaultScore = 1500;
         private const int kValue = 20;
@@ -29,20 +29,19 @@ namespace CfbDb
 
                 SeedGames(context);
 
-                Boolean seedElo = true;
+                List<DateTime> gameDays = context.Games.Select(g => g.GameDate).Distinct().OrderBy(d => d).ToList();
+
+                Boolean seedElo = false;
                 if (seedElo)
                 {
                     SeedElo(context);
+                    DateTime lastDayToRun = context.EloRecords.Max(e=>e.Date);
+
+                    gameDays = gameDays.Where(gd => gd >= lastDayToRun).ToList();
+
+                    context.EloRecords.RemoveRange(context.EloRecords.Where(el => el.Date == lastDayToRun));
+                    context.SaveChanges();
                 }
-
-                List<DateTime> gameDays = context.Games.Select(g => g.GameDate).Distinct().OrderBy(d => d).ToList();
-
-                DateTime lastDayToRun = context.EloRecords.Max(e=>e.Date);
-
-                gameDays = gameDays.Where(gd => gd >= lastDayToRun).ToList();
-
-                context.EloRecords.RemoveRange(context.EloRecords.Where(el => el.Date == lastDayToRun));
-                context.SaveChanges();
 
                 foreach (DateTime gameDay in gameDays)
                 {
@@ -119,7 +118,7 @@ namespace CfbDb
             gameResults.Enqueue(newHomeTeamElo);
         }
 
-        private static int CalculateNewRating(int eloScore, int kValue, decimal actualVisitingTeamScore, decimal expectedVisitingTeamScore)
+        public static int CalculateNewRating(int eloScore, int kValue, decimal actualVisitingTeamScore, decimal expectedVisitingTeamScore)
         {
             return decimal.ToInt32(Math.Round(eloScore + kValue * (actualVisitingTeamScore - expectedVisitingTeamScore)));
         }
@@ -142,7 +141,10 @@ namespace CfbDb
 
         public static decimal CalculateExpectedScore(int teamARating, int teamBRating)
         {
-            return (Decimal)(1 / (1 + Math.Pow(10, ((teamARating - teamBRating) / 400))));
+            double exponent = (teamBRating - teamARating) / 400d;
+            var denominator = 1 + Math.Pow(10, exponent);
+
+            return (Decimal)(1 / denominator);
         }
 
         public static List<Game> GetGamesPlayedOnDay(CfbDbContext context, DateTime gameDay)
